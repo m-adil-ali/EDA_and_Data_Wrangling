@@ -1,2 +1,2 @@
-# Objective:
-- Each file is consist of EDA and Data Wrangling practices
+Objective:
+- Each file consists of EDA and Data Wrangling practices
